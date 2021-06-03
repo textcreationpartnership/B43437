@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter, containing an account of the murder of Capt. Robert Mead, on the 19th of August last by Burrus Gradon, who was tryed for the same at the Kings-Bench-Bar in Dublin, the 15th of November, after, and found guilty of manslaughter only together with a copy of a letter sent the jury, and some reflections on the verdict.</title>
+            <author>Mead, E.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43437</idno><idno type="EEBO-CITATION">625106396</idno>
+  <idno type="VID">211408</idno>
+  <idno type="EEBO-PROQUEST">2240865562</idno>
+  
+            <idno type="OCLC"> 625106396</idno>
+            <idno type="OCLC">ocn 625106396</idno>
+            <idno type="STC">Wing M1542A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211408)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2972:24c)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter, containing an account of the murder of Capt. Robert Mead, on the 19th of August last by Burrus Gradon, who was tryed for the same at the Kings-Bench-Bar in Dublin, the 15th of November, after, and found guilty of manslaughter only together with a copy of a letter sent the jury, and some reflections on the verdict.</title>
+                  <author>Mead, E.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.M. in the year,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: E. Mead.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: torn, faded print, resultin in loss of text.</note>
+                  <note>Bound and filmed with: Wing W3386B, A401B, G524 and T1560B.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mead, Robert, d. 1692 --  Early works to 1800.</term>
+               <term type="personal_name">Gradon, Burrus --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Murder) --  Ireland --  Dublin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:211408:1"/>
+            <pb n="1" facs="tcp:211408:1"/>
+            <head>
+               <hi>A Copy of a Letter, containing an Account of the Murder of Capt.</hi> Robert Mead, <hi>on the 19th of</hi> August <hi>last, by</hi> Burrus Gradon, <hi>who was Tryed for the same at the</hi> Kings-Bench-Bar <hi>in</hi> Dublin, <hi>the 15th of</hi> November, <hi>after, and found Guilty of Manslaughter only; together with a Copy of a Letter sent the Jury, and some Reflections on the Verdict.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Dublin <hi>Decemb. the 10th.</hi> 1692.</date>
+               </dateline>
+               <salute>Brother,</salute>
+            </opener>
+            <p>THAT I did not write to you since I received yours, is excusable from the great affliction I have lain under, I suppose you may have heard the occasion, but not have had so full an Account as I am able now to give you, of the Murder of Mr. <hi>Mead,</hi> and the Tryal of him that did it, and I thought it would not be unacceptable to you; in my last I told you he was in <hi>England,</hi> and you might expect to see him, but he returning about the 14. of <hi>August,</hi> had the misfortune to come over in the same Ship with one <hi>Burrus Gradon,</hi> who in a few days after basely Murdered him, the Jury of In<g ref="char:EOLhyphen"/>quest, Sir <hi>Humphrey Jervis,</hi> and Ald. <hi>Smith</hi> being Coroners, on a full hearing of the Evidence, found it wilful Murder: I must own that not withstanding there was great interest made to the L. Chief Justice of the Kings Bench to Bail him, he being made senceable of the Crime refused it, so that he continued a Prisoner to the Tryal, which was the 15 of <hi>Novemb.</hi> I expected he would have challenged many of the Jury, but indeed he challenged none. The Jury being sworn as they appeared, were,
+<list>
+                  <item>Ald. <hi>Walter Mottly,</hi> Foreman.</item>
+                  <item>Ald. <hi>Anthony Pearcy,</hi>
+                  </item>
+                  <item>Ald. <hi>Mark Ransford,</hi>
+                  </item>
+                  <item>
+                     <hi>William Eager,</hi> Merchant.</item>
+                  <item>
+                     <hi>John Page,</hi> Merchant.</item>
+                  <item>
+                     <hi>James Huetson,</hi> Tayler.</item>
+                  <item>
+                     <hi>John Henrick,</hi> Baker.</item>
+                  <item>
+                     <hi>Edward Brock,</hi> Carpinter.</item>
+                  <item>
+                     <hi>Robert Withirill,</hi> Apothecary.</item>
+                  <item>
+                     <hi>Robert Constantine,</hi> Apothecary.</item>
+                  <item>
+                     <hi>John Holdsworth,</hi> Harnis-maker.</item>
+                  <item>
+                     <hi>George Persons,</hi> Cutler.</item>
+               </list>
+               <list>
+                  <head>The Judges were,</head>
+                  <item>Sr. <hi>Richard <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enalas,</hi> Ld. C. Just.</item>
+                  <item>Sr. <hi>John Lindon,</hi>
+                  </item>
+                  <item>Sr. <hi>Henry Eclin,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Council for the King were,</head>
+                  <item>Sr. <hi>John Mead,</hi>
+                  </item>
+                  <item>Mr <hi>Coot</hi> the Recorder,</item>
+                  <item>Mr. <hi>Donnoson,</hi>
+                  </item>
+                  <item>Late Serjant <hi>Brodekick.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>The Witnesses Examin'd were.</head>
+                  <item>Mr. <hi>Joseph Hutchi<gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Major <hi>Edward <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Coll. <hi>John A<gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Mr. <hi>Burly <gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Mr. <hi>Powel</hi> Corp<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <hi>Stephen As<gap reason="illegible" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>Ald. <hi>John Smith,</hi> one <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+               </list>
+            </p>
+            <p>There was nine Witnesses more to have been Examined, but being capable only of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the other had said, was thought needless by the Kings Councel.</p>
+            <p n="1">1. <hi>Joseph Hutchinson</hi> being duly Sworn, said, That having occasion to speak with found him with Coll. <hi>Allen, Robert Mead, Burly Cuff,</hi> and the Prisoner <hi>Burrus Gradon</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Tavern, that the said <hi>Dean</hi> desireing him to stay Supper, he did; that asking the said <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mother and Brother did, he said they were unkind to him; the Deponant said he was for <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be a misunderstanding between so near Relations, the said <hi>Gradon</hi> said he would be re<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would go down and drive his Mothers Sheep, and he had got that for his Brother, laying <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> on his Sword. Further said the said <hi>Gradon,</hi> being Impertinent in his discourse; saying, <hi>Ir<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+               <g ref="char:EOLunhyphen"/>ed to the <hi>Irish,</hi> and they had more right to it then the <hi>English,</hi> and if they could get it by <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they ought to keep it Liberty, villifying our Fleet, and extoleing the <hi>French</hi> Fleet; the said <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> opposing him in his discourse, whereupon the said <hi>Gradon</hi> put back his Chair, and laid his ha<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sword to draw, the Deponant started up and drew his, the Company parted them, and the sa<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <hi>don</hi> begged the Deponants pardon, and said he did not care what he did; was very uneasie to the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pany, and that the Deponant left the Company about one of the Clock.</p>
+            <p n="2">2. Major <hi>Dean</hi> being Sworn, said; That Coll. <hi>Allen,</hi> and <hi>Robert Mead</hi> coming to his house that morn<g ref="char:EOLhyphen"/>ing to see him, he would have had them a stayed Dinner; the said <hi>Allen</hi> said he had business at <hi>Stillor<g ref="char:EOLhyphen"/>gan,</hi> and he did not care for dineing, the Deponant told them if they would meet him at 5 a Clock in <hi>Copper-ally,</hi> he would send some Rabbits for Supper, they promised they would; the Deponant at the hour went to the place, but they not being there, and the Wine not good, he sent the R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbits to the Garter Tavern, and looking for them, he found them at <hi>Potters,</hi> and the Prisoner <hi>Gradon</hi> with them, that they went together to the Garter, that some time after came the abovesaid <hi>Hutchinson,</hi> Mr. <hi>Shaw,</hi> (who went away soon) and <hi>Burly Cuff;</hi> that the said <hi>Gradon</hi> had been very uneasie to the Company, that the aforesaid quarrel happened with <hi>Hutchinson,</hi> that the Deponant began a Health to the prosperity of King <hi>William</hi> and his Forces, and confusion to his Enemies; that the said <hi>Gradon</hi> refused to drink the said Health, persisted in his impertinencies, saying <hi>Ireland</hi> belonged to the <hi>Irish,</hi> and they had a better right to it then we, and if they could get it they ought to keep it; undervaluing our Fleet, and highly extoling the <hi>French</hi> Fleet, and their Bravary and Courage, and that we had no advantage of them dur<g ref="char:EOLhyphen"/>ing the fight, that what advantage we had was accidental the next day, <hi>&amp;c.</hi> That Mr. <hi>Mead</hi> said, Mr. <hi>Gradon</hi> you are mistaken in your Company, I believe you are for King <hi>James,</hi> but we are for King <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> we have all taken his Commission to serve him, and your discourse is ungrateful, that the said
+<pb n="2" facs="tcp:211408:2"/>
+               <hi>Gradon</hi> said, that he had served King <hi>William</hi> in the Fleet, but had not been presered; the said <hi>Mead</hi> answered, their was none there but had served him much more then he, without hopes of preferment, otherwise then it was their duty both to King and Country; that the said <hi>Gradon</hi> called the said <hi>Mead</hi> a Rascal, that the said <hi>Mead</hi> said I am no Rascal and will have satisfaction; that Col. <hi>Allen</hi> went between them to prevent them, and told <hi>Gradon</hi> he would have him ask <hi>Mead</hi> pardon, for had he the said <hi>Allen</hi> given such language to a Porter, he would ask his pardon, but the said <hi>Gradon</hi> would not, that they deferred it till next morning, that repairing to their Lodgings, the said <hi>Allen</hi> and <hi>Mead</hi> and the Deponant came forth together, that they were stopt by the Centry; that the Corporal came to them and passed them; that the said <hi>Mead</hi> and <hi>Gradon</hi> crossed the street, and went a door or two higher, that the Deponant hearing the Swords clash, drew his, and run towards them; that coming near he saw Mr. <hi>Mead</hi> stooping looking for his Sword, and the said <hi>Gradon</hi> running him through stooping, that running to the said <hi>Mead,</hi> he said, I have lost my Sword, and am killed; that being led to his Lodg<g ref="char:EOLhyphen"/>ing he dyed as soon as his Cloaths were opened.</p>
+            <p n="3">3. Coll. <hi>Allen</hi> being Sworn, said, That sending for Mr. <hi>Mead</hi> in the morning, they went to see Mr. <hi>Dean,</hi> not having seen him since they came out of <hi>England;</hi> that the said <hi>Dean</hi> would have had them a stay'd Dinner, but the Deponant having business at <hi>Stillorgan,</hi> said he must go thither, and did not care for Dineing; that the said <hi>Dean</hi> said he would send some Rabbits to <hi>Copper-ally,</hi> and they would Sup together; that the said <hi>Mead</hi> and Deponant came from <hi>Stillorgan,</hi> and lighted at the upper end of <hi>Fishamble street,</hi> about 5 a Clock; that the said <hi>Gradon</hi> came to them, and they went to <hi>Potters,</hi> where they had a Tankard of Ale; that the said <hi>Dean</hi> came to them, and took them to the Garter; that <hi>Gra<g ref="char:EOLhyphen"/>don</hi> and <hi>Hutchinson</hi> had the aforesaid quarrel and were parted; that the said <hi>Gradon</hi> said <hi>Ireland</hi> belong<g ref="char:EOLhyphen"/>ed to the <hi>Irish,</hi> and if they could get it by the Sword they ought to keep it, for they had better right to it then the <hi>English;</hi> that he villifyed the Fleet, and extolling the braveness and courage of the <hi>French,</hi> saying we had no advantage, but what was accidental the next day, <hi>&amp;c.</hi> That the said <hi>Mead</hi> said, you <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>an ill man, I believe you are for K. <hi>James,</hi> but we are for King <hi>William,</hi> &amp;c. The said <hi>Gradon</hi> said, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>served the King in the Fleet, but had not been preferred;</hi> the said <hi>Mead</hi> said, <hi>there was none there but <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the King much more, without hopes of preferment, otherwise then it was their Duty both to King and</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t the said <hi>Gradon</hi> called the said <hi>Mead</hi> Rascal, that the said <hi>Mead</hi> said, he was no Rascal, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ould have satisfaction; that the Deponant rose up and went between them, desireing the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>o be passionate, and withal told the said <hi>Gradon</hi> he ought to beg the said <hi>Mead</hi> pardon, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> such language to a Porter, he would ask him pardon, but he would not; that the De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d them to defer till morning, in hopes it might have been prevented; that coming <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ad,</hi> and the Deponant was together; that they were stopt by the Centry, who called <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>hat after the Corporal passed them, he heard the Swords clash; that when he came to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ral was in as soon as he; that the said <hi>Mead</hi> was wounded, and <hi>Gradon</hi>'s Sword in the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ands gript on the blade: that the said <hi>Gradon</hi> went away, but the deponant called to <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ure him: that the said <hi>Mead</hi> being led to his Lodging, dyed in a quarter of an hour. <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Cuff</hi> being sworn, said to the same purpose.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Corporal being sworn, said, that being called by the Centry, he came, and bidding <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d one advance; the said <hi>Gradon,</hi> the Prisoner at the Bar advanced; the deponant asked <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y were going, he said to their Lodgings hard-by, he bid them good night, and withdrew; <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> while, and two of them crossed the street, and one said, lets withdraw from the face of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>h he believed was Mr. <hi>Mead;</hi> that they drew a little higher and stood under the side of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> rest standing at a little distance, and the Deponant by his Centry: that he heard Swords clash <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> one Sword fly, and fall with a force on the ground, that he run to them, and found the said <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ith his two hands gript on the blade of the said <hi>Gradon</hi>'s Sword, which was bloody to the Hilt, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>etting the Sword fall out of his hand, it was taken up by the Deponant; that the said <hi>Mead</hi> being <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ken to his Lodging dyed immediately; that the said <hi>Gradon</hi> being taken to the Guards, where the Sword was, owned it to be his that the Sword of the said <hi>Mead</hi> flew as high as the pent-house, and was taken up two houses higher then where he was killed.</p>
+            <p n="6">6. Mr. <hi>Aspole</hi> Chyrutgion, said, that being called to dress the said <hi>Mead,</hi> he dyed as soon as his cloths were opened, that the Sword went in 3 Inches above his left Pap, and came out slanting behind, and a very large wound.</p>
+            <p n="7">7. Ald. <hi>Smith,</hi> one of the Coroners being sworn, and produceing the Sword to the Court, said, that Sword was owned by the prisoner, before the Jury of Inquest; that the wound went in above the left pap and came out at his back behind, being a very large wound, the blood sticking on the Hilt.</p>
+            <p>The Prisoner called one of the Drawers of the Tavern, to ask whether he did not stay in the Tavern behind Mr. <hi>Mead,</hi> who said he did; as also Mr. <hi>Deans</hi> man, Capt. <hi>Bon▪Burton,</hi> and Mr. <hi>Robert Twig;</hi> but they could say nothing that could avail.</p>
+            <p>The Kings Councel with a great deal of Modesty and Moderation, each of them repeated the Evi<g ref="char:EOLhyphen"/>dence, explained the Law, not being willing to stretch a Title, to the prejudice of the Prisoner, as they said; but obliged to discharge themselves of the Blood of him that was killed, that called for Justice as much as the other, and laid it so plain, that the Prisoner called to the Judges, and said, he perceived the Kings Councel intended to make it Murder, and desired liberty of Councel, which was refused.</p>
+            <p>The Court with as much Justice and Caution, summed it up to the Jury, and wished the Prisoner had
+<pb n="3" facs="tcp:211408:2"/> been so happy, as to have any one to prove a provocation, but it appeared so much otherwise, that all provocation and Murder to proceed from himself; they told the Jury the Law, and likewise their Opi<g ref="char:EOLhyphen"/>nion of the matter of Fact was Murder, but thanked God the Jury was to be the Judges, not they.</p>
+            <p>The Jury withdrew, and in a few minutes returned, with a Verdict, Guilty of Manslaughter, to the admiration of most in the Court; tho I had endeavoured to prepare my self for it, not knowing the Evi<g ref="char:EOLhyphen"/>dence would appear so clear against him; I must confess it was a great surprise to me.</p>
+            <p>I brought my appeal of Manslaughter, my Councel being of an Opinion, that an appeal of Murder would not lye in this Kingdom, Murder being Treason, and no appeal in Treason; but those proceed<g ref="char:EOLhyphen"/>ings here not being usual, the Court took some time to consider it; and after 2 or 3 days attendance, was pleased (directing their discourse to me) to repeat the Tryal, with Resentments, no way dishonorable to Mr. <hi>Mead,</hi> and reproachful to his Murderer: They told me I did well in endeavouring to right the blood of my Husband, but an Appeal was a nice thing, <hi>&amp;c.</hi> I told them if they would be fa<g ref="char:EOLhyphen"/>vourable to me in the Niceties, and forward it to a speedy issue, that it might not be a more punishment to me then the Murderer, I should not think much of the Charge, or pains of attendance; not that I desire it out of Revenge, but thought it my duty, and should be pleased to be Instrumental, in laying some Example that might be a check to that, which was one of the greatest sins of the Nation; most Murderers comming off by the Verdict of Manslaughter, without punishment; by which abuse it is bet<g ref="char:EOLhyphen"/>ter kill a man then beat him, if he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat him, the Law allows satisfaction according to the abuse, but kill<g ref="char:EOLhyphen"/>ing there was none, burning in the Hand <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing commonly pardoned: The Court told me they would allow my appeal, and likewise favour me as much as lay in them; but after all, I could not expect more then I brought my Action for, which was Manslaughter, and I had the same advantage now, that I would have then. I told them I was Informed by my Councel, that punishment to the King, was burn<g ref="char:EOLhyphen"/>ing in the hand, but to me would be perpetual Imprisonment, which they seemed not to be satisfied in: though my affliction and desire was great, I found there was a necessity to yield to the opinion of the Judges, of whose integrity I had no reason to doubt, if either the Law, or they could have born me out in it. And now having done my utmost, and finding the course of Justice stopt, by the verdict of a senceless, unconsiderate Jury, I write them this following Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sirs,</salute>
+                  </opener>
+                  <p>I Cannot Satisfie my self though I have done the utmost and last Office in my power, for my murder<g ref="char:EOLhyphen"/>ed Husband, till I have le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t you know my Resentment of your Verdict, by which you have drawn his Blood on your own Heads. I will not trouble my self with the Repetition of Evidence<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> which was full without Exception, and so cleer to men of the best understanding and unbyast Judgment, that no<g ref="char:EOLhyphen"/>thing appeared more Murder. I must be wanting to the duty I owe for the Justice his blood hath received according to the Laws of the Land; i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I do not let the world know in what part of the law Justice, in Revenging the blood of the Innocent is perverted. One thing I think defective in the law, that is, that the Prisoner shall have the Copy of the Pannel so long before Tryal as to be able to prevaile upon them by any addresses by themselves or Freinds, but it Jury men hath honesty only it would render the cause suspected where Endevoured. Indeed when I had the Copy and veiwed it notwithstanding I knew of the Murderers Endevours to make an Interest, I considered, you were not men of all the sence in the world; but I thought you honest men, and that you would so far consider your Consciences and Oathes, as to take care of drawing the Vengence of God upon your own and your Childrens heads, either out of com<g ref="char:EOLhyphen"/>plement or custom. Mr. Meade was a neighbours Son and a neighbour known to all of you from his Infancy, and I think, of no uncreditable Reputation (but had he been the worst of men his blood deser<g ref="char:EOLhyphen"/>ved Justice) I met two of you and tould you I found you were on the Pannel and desired you to do Jus<g ref="char:EOLhyphen"/>tice, some of you was so prepared for it, that you gave your Verdict in the Coffee houses before you went to Court, I must tell you, you are Ignorant and presumptious both against the Laws of God and the Nation. Read the last Chapter but one of <hi>Numbers,</hi> and what other the Margent direct you too, and there you'l see the Laws and Command of God, and I have the Satisfaction to have heard you Pru<g ref="char:EOLhyphen"/>dently, Justly, Cautiously and Fully informed by the Court of the laws of the Land, and likewise their Opinion given you of the matter of Fact; with that concern, that they thanked God you were to be the Judges not they. But your Judgment was so Ripe that all that was not sufficient for you to think it worth one half hours consideration, I believe you were either resolved, or so intent on the pernicious Custom of that Verdict that you forgot the Object and Subject. The Object was <hi>Robert Meade</hi> mine and one of the best of Husbands, an honest man and a faithful Subject both to his King and Country; which I fear to some of you made his Case the more indifferent.</p>
+                  <p>The Subject was his Blood barbarously spilt, maliciously designed by a Treacherous Subject, a bar<g ref="char:EOLhyphen"/>barous Son, a designing murderous Brother. The occasion of resentment to Mr. <hi>Meade</hi> provoking to so high a degree, that moderate Justice could not accuse him with either Passion or Indiscretion, but to the contrary consistent with Honor and duty so to do. What you can say after a serious Reflection, I would fain know, or how you expect to acquit your selves of that Blood, you are every one as Guilty of, as if you had spilt it. It is now too late for you to do it, by laying it on him that did it; though your acquitting him doth not make him less Guilty in the eyes of God, before whose Tribunal, he and you must appear to Answer, and poor <hi>Robert Meade</hi> to accuse you, and all others who hath been industrous to prevent the just Revenge due to his Blood,</p>
+                  <pb n="4" facs="tcp:211408:3"/>
+                  <p> Look not on these lines as the effect of passion, for 13 weeks hath digested that into serious thoughts, and I shall pray that it may so lye upon you, that the Land may be quit of the pollution of it; and that your Crime with the so many more of the same nature so slubberd over, may not draw upon this Nation a further Judgment then it hath already lain under. I am, as by nature and duty bound, the most concerned, and most afflicted.</p>
+                  <p>Not only to you but to all your Brother Jurors.</p>
+                  <closer>
+                     <signed>E. Meade.</signed>
+                     <hi>The Superscription to Ald.</hi> Moetly, <hi>Foreman.</hi>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>My Reflections in my Letter, are not so full as the Information I have had since would have rendered them, if I had known it before; the whole Jury being his Relations, or chosen Friends: that there was an Interest made to many more then was Empanneled, I have been assured by some of them which was importuned, by which way I find they informed themselves who was fit for their purpose, which was to save a Villain, at the forfeiture of their Oaths, Consciences, and Reputations: How far the Sheriffs have acquitted themselves (Mr. <hi>Gibeons</hi> being his Relation, Mr. <hi>Steight</hi> influenced by some of his active Rela<g ref="char:EOLhyphen"/>tions and Friends) of their duty in their places, and to their Murdered Neighbour and Friend, is but known to themselves; but I fear their Innocency will not clear them before the all-knowing uncorrupt Judge. It was a Jury that had the faces of indifferent honest men, and I did certainly expect there would have been exceptions made by the Prisoner, against most, or all of them; but he was not more sure of their Verdict, then they resolved that no Evidence should alter their predetermination; and in<g ref="char:EOLhyphen"/>deed their behaviour during the Tryal, looked as if they appeared there to fetch of a Criminal, not to Judge him to Justice for his Crime; their quick return with their so ready Verdict, shewed they would not think any part of the Evidence worth consideration, nor any mans Blood worthy the Justice of tak<g ref="char:EOLhyphen"/>ing the life of him that spilt it. How dangerously Jurys err, they would understand, if they acquainted themselves more with the Law of God, who is severe in the Case of Blood; and consider that by such a Verdict, a Villain is cleared from all punishment, it not lying in the power of the Court to lay any, but by a Verdict of Murder, except it appears so to the Court too; it takes not the Life, for upon the Courts Representing it to the Government, they Reprieve and Pardon. If any mans Life deserved Justice, I might have hoped for it, few Lives falling on a juster Resentment; none more basely Ravished; none more Pittyed, but that Pernicious, Destructive, Rebellious maxims, of spairing the Murderer, because the Murdered cannot be recalled, is <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> some few importunate or treats, prevailing with too many of the Jurors of our Age, who doth not co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sider the consequences of it; what pittyful unjust occasions hath some of the Jury made use of, to justify so ill a thing, when they are told of it: <hi>Brock</hi> saying, there was no proof he killed him (why then Guilty of Manslaughter) <hi>Withiril</hi> so Impudent, as not only to asperse the dead, but the Court also; saying <hi>They did not intend they should find it murder,</hi> for in summoning the Try<g ref="char:EOLhyphen"/>al, my L. Chief Justice should say, <hi>Here is a thing they would call murder, but thank God Gentlemen, you are to be the Judges, implying they ought not to find it so;</hi> when no such expression was used by the Court.</p>
+            <p>If being resolved to be Revenged, saying, <hi>he would drive his mothers Sheep, and he had got that for his Brother,</hi> laying his Hand on his Sword; quarreling with one before, and killing the other, was not ma<g ref="char:EOLhyphen"/>lice propense; both Councel a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Court was mistaken in the Law, who all represented it so.</p>
+            <p>That the Murder was maliciously resolved was plain, he not being prevailed upon to ask pardon for calling him a Rascal. That he gave all provocation appeared, and as well in the street as in the Tavern, for Mr. <hi>Meade</hi> said▪ <hi>Lets withdraw from the face of the Guard,</hi> cannot be implyed but as an Answer.</p>
+            <p>That his Sword was Flurted or Twisted out of his Hand, appeared by the Corporal seeing it fly, and being found 2 houses higher in the street, then where he received his deaths wound.</p>
+            <p>That the wound was given he not being in a posture of defence, besides the Evidence that saw it given, is evident, it being on his left side, and that he was stooping looking for his Sword, the Sword goeing in Just below the Coller bone and coming out below the Shoulder blade behind; that his malitious hand thrust it as far as the Hilt would let him, appeared not only by the Blood on the Hilt, but by the larg<g ref="char:EOLhyphen"/>ness of the Wound which could not but be seen by some of the Jury, having been seen by most of the City in the forepart of which a man might turn his four fingers, being three Inches long behind.</p>
+            <p>But for who, or what Quallified person hath this Jury denyed Justice, Incurred Divine displeasure and left the land polluted? For a Son who hath kicked his Mother about the house, pulled her by the haire of the Head, many times driving her Stock and selling it at his pleasure none dearing to oppose, who Att<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pted to kill his elder Brother was sent away to prevent him, Retained his malice returned and got that Sword to accomplish it, a fellow that went to our Fleet to assist our enimies, and made it his business not only to scandalize the Fleet, but our Interest; and Encourage our enimies by extolling the Force and Braveness of the French. A fellow that never shewed any remors, that persists still on impu<g ref="char:EOLhyphen"/>dency and Impenitency, being in all appearence ready for more mischief; and this better known to the Jury then me. Not one Friend being Capable to excuse him, or themselves in saveing him, by any other Reason then what is said before (his loss will not bring the other back, and it will be a Scandel to the familey to have a Son or a Brother hanged) that he may Reward his preservers, and God reveng the Injustice, shall be the Prayers of your unfortunate afflicted Sister.</p>
+            <closer>
+               <signed>E. Mead.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>S. M.</hi> in the Year, 1692.</p>
+            <pb facs="tcp:211408:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
